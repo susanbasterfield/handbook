@@ -18,6 +18,10 @@ As your proto-venture matures, at some stage you’ll either want to go all-in a
 
 ---
 
+Discussion thread: Enspiral contributors are welcome to ask questions about Proto-ventures and discuss changes to this guide [in this thread on Loomio](https://www.loomio.org/d/KJgmNYBa/).
+
+---
+
 TODO: update this page quarterly with all the proto-ventures:
 
 ---
