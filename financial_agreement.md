@@ -50,7 +50,7 @@ We make collective decisions about spending discretionary funds with a transpare
 * All Enspiral contributors are invited to use Cobudget, and are welcome to raise bucket ideas.
 Those holding money in Cobudget decide what buckets they want to contribute funds to at their discretion.
 * Payments from the Foundation for buckets are only made upon completion of work, reporting of the outcome, and receipt of an invoice from the payee.
-* Funded buckets must be completed within in 90 days, or else they will be cancelled. Catalysts and bucket sponsors can agree to variation and reasonable extensions to this time limit.
+* Bucket sponsors decide on the time limit to their buckets.
 * If cancelled after being funded, a bucket’s funds are sent to Normal Reserves.
 * For a bucket to move forward for funding, it must be clear who specifically will be responsible for delivering the work.
 * People carrying out work funded through Cobudget are expected to perform to the best of their abilities, and clearly communicate about their progress and the bucket outcomes.
